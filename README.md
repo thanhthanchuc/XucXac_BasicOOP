@@ -1,5 +1,5 @@
-_Súc sắc oop_
-Demo chương trình suc sắc oop - Đại học Bách Khoa Hà Nội
+*Xúc Xắc oop*
+Demo chương trình Xuc Xắc oop - Đại học Bách Khoa Hà Nội
 Môn lập trình hướng đối tượng.
 Cần lập trình 1 trò chơi như sau (trên 1 máy tính duy nhất)
 +Số lượng người chơi luôn là 4, nếu <4 ng chơi thât tham gia máy tính sẽ tự động thêm 1 số ng chơi ảo cho đủ 4 ng chơi.
